@@ -4,8 +4,6 @@ Talk2Task simplifies tasks by dividing them into smaller subtasks and carrying o
 
 """
 
-!pip install openai
-
 import re
 import os
 import subprocess
