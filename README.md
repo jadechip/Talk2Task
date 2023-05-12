@@ -7,7 +7,6 @@ Leveraging one-shot prompting, it uses minimal input to generate structured resp
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jadechip/Talk2Task/blob/main/example.ipynb)
 
-
 ```
 !pip install openai
 ```
