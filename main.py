@@ -146,7 +146,7 @@ if __name__ == "__main__":
     # Initialize the library with your OpenAI API key
     lib = lib = Talk2Task("<OPENAI_API_KEY>")
 
-    # Define a prompt that GPT-3 will understand to create a directory
+    # Define a prompt that GPT-X will understand to create a directory
     prompt = "Write a bash script to download the PDF from this URL: https://arxiv.org/abs/2305.01257 and save it to the current local directory"
 
     # Process the prompt
